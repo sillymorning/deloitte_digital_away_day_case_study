@@ -1,7 +1,7 @@
 # deloitte_digital_away_day_case_study
 
 Language : Java 8
-Build tool : Maven 4.0
+Build tool : Maven 3.5.3
 Junit :   4.7
 
 Problem Statement : 
